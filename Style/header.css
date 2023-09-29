@@ -1,0 +1,10 @@
+.nav{
+  top:0;
+  background-color: blue;
+  color: white;
+}
+.nav p{
+  font-size: large;
+  padding: 20px;
+  margin: 0;
+}
